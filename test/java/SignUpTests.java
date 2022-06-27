@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class SignUpTests {
+public class SignUpTests { //dsfdscdscsdcsd
     @Test
     public void zipCodeTests() throws InterruptedException {
         WebDriverManager.chromedriver().setup();
